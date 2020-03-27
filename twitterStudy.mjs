@@ -93,3 +93,5 @@ function reset() {
 function authCallback(request) {
   return twitter.authCallback(request);
 }
+
+//分岐したよ
